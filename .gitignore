@@ -1,5 +1,5 @@
-*/.lein-failures
-*/target/
+**/.lein-failures
+**/target/
 
 *.gem
 *.rbc
