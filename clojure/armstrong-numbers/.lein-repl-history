@@ -1,3 +1,0 @@
-(armstrong? 153)
-(armstrong-numbers/armstrong? 153)
-quit
